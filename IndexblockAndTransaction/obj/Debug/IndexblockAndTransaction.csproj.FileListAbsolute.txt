@@ -1,0 +1,13 @@
+D:\CodingWork\etherscan\IndexblockAndTransaction\IndexblockAndTransaction\bin\Debug\IndexblockAndTransaction.exe.config
+D:\CodingWork\etherscan\IndexblockAndTransaction\IndexblockAndTransaction\bin\Debug\IndexblockAndTransaction.exe
+D:\CodingWork\etherscan\IndexblockAndTransaction\IndexblockAndTransaction\bin\Debug\IndexblockAndTransaction.pdb
+D:\CodingWork\etherscan\IndexblockAndTransaction\IndexblockAndTransaction\obj\Debug\IndexblockAndTransaction.csproj.AssemblyReference.cache
+D:\CodingWork\etherscan\IndexblockAndTransaction\IndexblockAndTransaction\obj\Debug\IndexblockAndTransaction.csproj.SuggestedBindingRedirects.cache
+D:\CodingWork\etherscan\IndexblockAndTransaction\IndexblockAndTransaction\obj\Debug\IndexblockAndTransaction.csproj.CoreCompileInputs.cache
+D:\CodingWork\etherscan\IndexblockAndTransaction\IndexblockAndTransaction\obj\Debug\IndexblockAndTransaction.exe
+D:\CodingWork\etherscan\IndexblockAndTransaction\IndexblockAndTransaction\obj\Debug\IndexblockAndTransaction.pdb
+D:\CodingWork\etherscan\IndexblockAndTransaction\IndexblockAndTransaction\bin\Debug\Newtonsoft.Json.dll
+D:\CodingWork\etherscan\IndexblockAndTransaction\IndexblockAndTransaction\bin\Debug\System.Net.Http.Formatting.dll
+D:\CodingWork\etherscan\IndexblockAndTransaction\IndexblockAndTransaction\bin\Debug\Newtonsoft.Json.xml
+D:\CodingWork\etherscan\IndexblockAndTransaction\IndexblockAndTransaction\bin\Debug\System.Net.Http.Formatting.xml
+D:\CodingWork\etherscan\IndexblockAndTransaction\IndexblockAndTransaction\obj\Debug\IndexblockAndTransaction.csproj.CopyComplete
